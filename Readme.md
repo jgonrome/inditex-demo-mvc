@@ -25,6 +25,11 @@ Se podrá ejecutar usando maven. Es necesario que en el entorno este configurado
 ```cmd
 mvn spring-boot:run
 ```
+Los test se podrán ejecutar con:
+
+```cmd
+mvn test
+```
 
 Igualmente se podrá ejecutar y debugear desde cualquier IDE (IntelliJ, STS, etc.)
 
